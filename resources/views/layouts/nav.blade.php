@@ -145,8 +145,13 @@
 <script src="{{ url('js/bootstrap.min.js') }}" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
 
   <script src="assets/vendor/apexcharts/apexcharts.min.js"></script>
+<<<<<<< HEAD
   <script src="{{ url('js/bootstrap.min.js') }}"></script>
 
+=======
+  <script src="{{ url('css/bootstrap.min.js') }}"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+>>>>>>> 5348b5b3e1a14f4c000cfcf5947cc240fceb1e32
   <script src="assets/vendor/chart.js/chart.min.js"></script>
   <script src="assets/vendor/echarts/echarts.min.js"></script>
   <script src="assets/vendor/quill/quill.min.js"></script>
