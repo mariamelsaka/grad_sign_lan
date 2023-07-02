@@ -19,7 +19,7 @@
         <div class=" backgroundElementVideo">
             <iframe src="https://www.youtube.com/embed/{{ $video->link }}" title="YouTube video player"
                 frameborder="0"preload="auto" disablepictureinpicture allowfullscreen>
-                
+
             </iframe>
             <div class="layer mt-sm-1 mt-md-1  ">
 
@@ -30,14 +30,14 @@
                             <iframe src="https://www.youtube.com/embed/{{ $video->link }}" title="YouTube video player"
                                 frameborder="0"preload="auto" disablepictureinpicture allowfullscreen></iframe>
                             <p>{{ $video->description }} </p>
-                            
+
                         </div>
-                        <a href="{{ url('') }}" class="col-lg-11 col-md-12 col-sm-12 m-lg-3 mt-md-2 mt-sm-2 mt-2 col-sm-11 btn py-lg-3 py-md-1  btn-dark  mb-1 mb-sm-1"
+                        <a href=" http://127.0.0.1:5000" class="col-lg-11 col-md-12 col-sm-12 m-lg-3 mt-md-2 mt-sm-2 mt-2 col-sm-11 btn py-lg-3 py-md-1  btn-dark  mb-1 mb-sm-1"
                             style="background-color: #157a99;color:aliceblue;border:none;"" type="submit">امتحان قياس
                             مستوي <i class="fa fa-file"></i></a>
                         </a>
                         <a href="{{ url('video/list') }}" class="col-lg-5 col-sm-12 m-lg-3 col-md-12 mt-md-2 mt-sm-2 mt-2 col-sm-11 btn py-lg-3 py-md-1 mb-1 mb-sm-1 btn-dark "
-                            style="background-color: #30134f;color:aliceblue;border:none" 
+                            style="background-color: #30134f;color:aliceblue;border:none"
                             type="submit">الرجوع
                             لصفحة
                             الفيديوهات <i class="fa fa-video"></i></a>
@@ -57,7 +57,7 @@
                                     class="fa fa-trash"></i></a>
                             </a>
                         @endif
-                        
+
                     </div>
                 </div>
             </div></a>

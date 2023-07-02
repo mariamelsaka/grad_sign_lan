@@ -51,14 +51,14 @@ body{
     margin-bottom: 20%;
 }
 @media screen and (min-width: 401px) and (max-width: 768px) {
-    
+
 
 
 
     .paragraph h5,p{
-        font-size: small;  
+        font-size: small;
         padding-bottom: 0%;
-        
+
         }
         .layer {
             position: relative;
@@ -71,7 +71,7 @@ body{
 }
 @media screen and (max-width: 400px) {
     .paragraph h5,p{
-font-size: small;  
+font-size: small;
 padding-bottom: 0%;
 overflow: hidden;
 

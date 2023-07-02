@@ -89,8 +89,8 @@
                         <!-- Single item -->
                         <div class="carousel-item active">
                             <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-4">
+                                <div class="row" >
+                                    <div class="col-lg-4 p-2" >
                                         <div class="card">
                                             <img src="https://images.pexels.com/photos/4629633/pexels-photo-4629633.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                                                 class="card-img-top card-img-top1" alt="Waterfall" />
@@ -105,7 +105,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-lg-4 d-none d-lg-block">
+                                    <div class="col-lg-4 p-2">
                                         <div class="card">
                                             <img src="https://images.pexels.com/photos/4629624/pexels-photo-4629624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                                                 class="card-img-top card-img-top2" alt="Sunset Over the Sea" />
@@ -119,7 +119,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="col-lg-4 d-none d-lg-block">
+                                    <div class="col-lg-4 p-2">
                                         <div class="card">
                                             <img src="https://images.pexels.com/photos/4629622/pexels-photo-4629622.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
                                                 class="card-img-top card-img-top3" alt="Sunset over the Sea" />
